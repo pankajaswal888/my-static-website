@@ -3,7 +3,10 @@
 This is my personal **portfolio website** showcasing my professional experience, skills, and contact details.  
 The site is built with **HTML & CSS** and is hosted on **AWS S3 Static Website Hosting**.
 
-<img width="652" height="545" alt="image" src="https://github.com/user-attachments/assets/4dfaa094-aa80-4a41-8cf9-dbaa69f71816" />
+
+
+<img width="854" height="714" alt="image" src="https://github.com/user-attachments/assets/085c9a18-596c-41a9-a48f-f9a2f5693e70" />
+
 
 
 ---
