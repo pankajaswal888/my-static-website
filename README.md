@@ -33,10 +33,10 @@ The site is built with **HTML & CSS** and is hosted on **AWS S3 Static Website H
 ## 📂 Project Structure
 
 
-├── index.html # Main website HTML
-├── myphoto.jpg # Profile image
-├── error.html # Custom error page
-└── screenshot.png # Website preview image
+     * index.html # Main website HTML
+     * myphoto.jpg # Profile image
+     * error.html # Custom error page
+     * screenshot.png # Website preview image
 
 
 
@@ -71,5 +71,3 @@ The site is built with **HTML & CSS** and is hosted on **AWS S3 Static Website H
   <img width="986" height="350" alt="image" src="https://github.com/user-attachments/assets/ec34ed4b-7f04-4892-ad89-871b1e401105" />
 
 
-
-Visit the Website Endpoint given in the S3 Static Website Hosting settings.
